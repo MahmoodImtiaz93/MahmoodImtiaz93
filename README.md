@@ -5,12 +5,12 @@
 
 <br>
 
-[![MahmoodImtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoodImtiaz93&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=MahmoodImtiaz93&theme=algolia)](https://git.io/streak-stats)
+ |                                                                                                      Mahmood's Stars                                                                                                       |                                                           GitHub Streak                                                         |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=MahmoodImtiaz93&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![GitHub Streak](https://streak-stats.demolab.com?user=MahmoodImtiaz93&theme=algolia)|
 
 <br>
 
 [![Mahmood Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93&theme=react-dark)](https://github.com/MahmoodImtiaz93/github-readme-activity-graph)
 
-|                                                                                                      Mahmood's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=MahmoodImtiaz93&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![GitHub Streak](https://streak-stats.demolab.com?user=MahmoodImtiaz93&theme=algolia)](https://git.io/streak-stats) |
+
