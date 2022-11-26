@@ -5,10 +5,8 @@
 
 <br>
 
-[![Mahmood Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93&theme=react-dark)](https://github.com/MahmoodImtiaz93/github-readme-activity-graph)
+[![MahmoodImtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoodImtiaz93&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   [![GitHub Streak](https://streak-stats.demolab.com?user=MahmoodImtiaz93&theme=algolia)](https://git.io/streak-stats)
 
 <br>
 
-[![MahmoodImtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoodImtiaz93&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=MahmoodImtiaz93&theme=algolia)](https://git.io/streak-stats)
-
- 
+[![Mahmood Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93&theme=react-dark)](https://github.com/MahmoodImtiaz93/github-readme-activity-graph)
