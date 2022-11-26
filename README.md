@@ -4,6 +4,9 @@
 </p>
 
 <br>
-![Mahmood Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?MahmoodImtiaz93&show_icons=true)
+ 
  
 [![Mahmood Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93&theme=react-dark)](https://github.com/MahmoodImtiaz93/github-readme-activity-graph)
+
+
+[![MahmoodImtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoodImtiaz93)](https://github.com/anuraghazra/github-readme-stats)
