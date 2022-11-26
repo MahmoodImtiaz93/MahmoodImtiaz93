@@ -4,4 +4,4 @@
 </p>
 
 <br>
-[![Mahmood's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mahmood's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93)](https://github.com/ashutosh00710/github-readme-activity-graph)
