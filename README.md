@@ -10,3 +10,7 @@
 <br>
 
 [![Mahmood Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93&theme=react-dark)](https://github.com/MahmoodImtiaz93/github-readme-activity-graph)
+
+|                                                                                                      Mahmood's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=MahmoodImtiaz93&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodImtiaz93&langs_count=8&theme=algolia&layout=compact) |
