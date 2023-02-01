@@ -14,8 +14,7 @@
 
 <br>
 
-
-[![Mahmood Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoodImtiaz93&theme=react-dark)](https://github.com/MahmoodImtiaz93/github-readme-activity-graph)
+ 
 
 [![Mahmood Imtiaz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MahmoodImtiaz93&theme=react-dark)](https://github.com/MahmoodImtiaz93/github-readme-activity-graph)
 
