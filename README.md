@@ -10,7 +10,7 @@
 
  |                                                                                                      Mahmood's Stars                                                                                                       |                                                           GitHub Streak                                                         |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MahmoodImtiaz93&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![GitHub Streak](https://streak-stats.demolab.com?user=MahmoodImtiaz93&theme=algolia)|
+| ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MahmoodImtiaz93&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | [![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoodImtiaz93&theme=algolia)](https://git.io/streak-stats)|
 
 <br>
 
